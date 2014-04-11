@@ -1,0 +1,29 @@
+{
+    "name": "winmillwill/packagist",
+    "description": "Package tools for repository website",
+    "keywords": ["package", "composer"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nils Adermann",
+            "email": "naderman@naderman.de",
+            "homepage": "http://www.naderman.de"
+        },
+        {
+            "name": "Jordi Boggiano",
+            "email": "j.boggiano@seld.be",
+            "homepage": "http://seld.be"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Packagist\\": "Packagist/" }
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/symfony": "2.5.*",
+        "doctrine/orm": "~2.3",
+        "doctrine/doctrine-bundle": "1.2.*",
+        "composer/composer": "1.0.x-dev"
+    }
+}
