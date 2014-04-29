@@ -17,7 +17,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "Packagist\\": "Packagist/" }
+        "psr-4": { "Packagist\\WebBundle": "" }
     },
     "require": {
         "php": ">=5.3.3",
