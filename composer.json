@@ -1,5 +1,5 @@
 {
-    "name": "winmillwill/packagist",
+    "name": "winmillwill/packagist-bundle",
     "description": "Package tools for repository website",
     "keywords": ["package", "composer"],
     "type": "library",
