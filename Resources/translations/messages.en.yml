@@ -1,0 +1,21 @@
+menu:
+    about_packagist: About Packagist
+    rss_feeds: Atom/RSS Feeds
+    about_composer: About Composer
+    home: Home
+    profile: Profile
+    logout: Logout
+    login: Login
+    register: Register
+    browse_packages: Browse Packages
+    twitter: Follow @packagist
+    contact: Contact
+    stats: Statistics
+
+link_type:
+    require: Requires
+    devRequire: Requires (Dev)
+    suggest: Suggests
+    conflict: Conflicts
+    replace: Replaces
+    provide: Provides
